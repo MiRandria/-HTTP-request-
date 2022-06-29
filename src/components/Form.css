@@ -1,0 +1,27 @@
+.form{
+    width: 50vw;
+    height: 70vh;
+    margin: auto;
+    position: absolute;
+    top: 15vh;
+    left: 30vw;
+    z-index: 15;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+    display: none;
+}
+form{
+    margin-top: 4vh;
+    margin-left: 5vw;
+    
+}
+input{
+    width: 40vw;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+}
+
